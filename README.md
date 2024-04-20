@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Souhail benlhachemi
-- 👀 I’m interested in Full-Stack development, building software products and find solutions to daily problems.
-- 🌱 I’m currently a software engineer student and an indie hacker.
+- 👋 Hi, I’m Souhail
+- 👀 I’m interested in building software products and finding solutions to daily problems.
+- 🌱 I’m currently an indie hacker.
 - 📫 How to reach me: souhailbenlhachemi1999@gmail.com
 
 <!---
