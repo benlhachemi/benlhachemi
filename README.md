@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Souhail
 - 👀 I’m a typescript full stack developer
 - 🌱 I’m currently a freelancer & indie hacker.
+- 🎥 I run a small YouTube channel: https://www.youtube.com/@souhail4dev
 - 📫 How to reach me: souhailbenlhachemi1999@gmail.com
 - 🐤 Follow me on Twitter (X): https://x.com/souhail_dev
 
